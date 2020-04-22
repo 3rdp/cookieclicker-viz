@@ -12,7 +12,7 @@ const scale = {
 };
 app({
   init: {
-    cookiesPerSec: 4759000
+    cookiesPerSec: 4854000
   },
   view: state => (
     <main>
